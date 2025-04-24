@@ -1,4 +1,4 @@
-# A Machine Learning Study of Fair Employment Factors Across the U.S.
+# A Machine Learning Study of Fair Employment Factors Across the U.S. - Jacelyn Asafo-Adjei & Maya Ody-Ajike
 Welcome to the github repo for our Machine Learning Final Project. Our study is "A Machine Learning Study of Fair Employment Factors Across the U.S."  
 
 This project used machine learning to explore how hiring practices vary across the U.S. It combined clustering, classification, and visualization tools to analyze patterns in employment inequality. The results gave insight into where fair hiring is happening—and where it’s not. This work aims to support more informed conversations and decisions around building a fairer job market.
