@@ -1,5 +1,4 @@
-# machine-learning-25
-# colab link: https://colab.research.google.com/drive/1CtX-u0tBLp5ELimMMsZtoK8PvPqvNsoG
+# A Machine Learning Study of Fair Employment Factors Across the U.S.
 Welcome to the github repo for our Machine Learning Final Project. Our study is "A Machine Learning Study of Fair Employment Factors Across the U.S."  
 This project used machine learning to explore how hiring practices vary across the U.S. It combined clustering, classification, and visualization tools to analyze patterns in employment inequality. The results gave insight into where fair hiring is happening—and where it’s not. This work aims to support more informed conversations and decisions around building a fairer job market.
 We wrote our code in Python on Google Colab and have copied that document to this repo, the link to the Colab doc is: https://colab.research.google.com/drive/1CtX-u0tBLp5ELimMMsZtoK8PvPqvNsoG.
